@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Personal Details</title>
+</head>
+<body>
+
+<h1 style="background-color:Tomato;">Name:Anmol kini</h1>
+<h1 style="background-color:Tomato;">Age:21</h1>
+<h1 style="background-color:Tomato;">Gender:Male</h1>
+<h1 style="background-color:Tomato;">College:Reva University</h1>
+
+</body>
+</html>
